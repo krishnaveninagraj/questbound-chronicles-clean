@@ -1,0 +1,44 @@
+# Android / Gradle build output
+.gradle/
+build/
+app/build/
+**/build/
+
+# Local properties (contains SDK path, never commit)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+*.iws
+*.ipr
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore files (NEVER commit signing keys)
+*.jks
+*.keystore
+
+# Google services (contains API keys)
+google-services.json
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Kotlin / Java
+*.class
+*.log
+
+# APK and AAB output
+*.apk
+*.aab
+# Node dependencies
+node_modules/
+

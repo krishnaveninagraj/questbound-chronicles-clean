@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EdgeChildAI</string>
+
+    <!-- Child Dashboard -->
+    <string name="dashboard_title">🌟 Adventure Hub</string>
+    <string name="dashboard_caution_title">⚠️ Caution Alert!</string>
+    <string name="mic_hint">Tap the microphone or a story card to explore!</string>
+    <string name="mic_permission_denied">🎙️ Microphone permission denied. Please enable it in Settings to use voice.</string>
+    <string name="mic_listening">Listening to your voice… 🎙️</string>
+    <string name="storybook_button">📖 Generate Mascot Storybook (+5 Stars)</string>
+    <string name="curiosity_quests_label">🌟 Curiosity Quests:</string>
+    <string name="btn_read_aloud">🔊 Read Aloud</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_parent">🛡️ Parent</string>
+
+    <!-- Parent Dashboard -->
+    <string name="parent_dashboard_title">🛡️ Parent Dashboard</string>
+    <string name="parent_dashboard_subtitle">COPPA &amp; Families Policy Compliance Hub</string>
+    <string name="btn_back_to_app">← Back to App</string>
+    <string name="audit_log_title">📋 Safety Audit Trail &amp; Activity Logs</string>
+    <string name="audit_log_empty">✨ No safety alerts recorded yet! All queries have been safe.</string>
+    <string name="audit_log_persistent_note">Logs persist across app restarts (stored locally on device).</string>
+
+    <!-- Parental Gate -->
+    <string name="parental_gate_title">🛡️ Parental Gate</string>
+    <string name="parental_gate_subtitle">Please solve this math problem to continue:</string>
+    <string name="parental_gate_error">❌ Incorrect answer. Try again!</string>
+    <string name="btn_verify">Verify &amp; Enter</string>
+    <string name="btn_cancel">Cancel</string>
+
+    <!-- Camera Screen -->
+    <string name="camera_title">📸 Visual Object Explorer</string>
+    <string name="camera_detected_prefix">🔍 Detected: </string>
+    <string name="btn_ask_ai_object">Ask AI About Object</string>
+    <string name="camera_permission_denied">Camera permission denied. Please enable it in Settings.</string>
+    <string name="btn_grant_camera">Grant Camera Permission</string>
+</resources>
